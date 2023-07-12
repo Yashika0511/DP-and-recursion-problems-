@@ -1,4 +1,4 @@
-def distanceK(root, target, ):
+def distanceK(root, target):
         def add_parent(cur, parent):
             if cur:
                 cur.parent = parent
